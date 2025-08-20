@@ -157,6 +157,10 @@ This project is licensed under the MIT License.
 3. Make your changes
 4. Submit a pull request
 
-## 📞 Support
+## � Demo
+
+<img width="1829" height="1156" alt="CTI Platform Demo" src="https://github.com/user-attachments/assets/7e5edcc9-c9a1-48ea-bb3f-fb54f867867a" />
+
+## �📞 Support
 
 For support and questions, please refer to the documentation or create an issue in the repository.
