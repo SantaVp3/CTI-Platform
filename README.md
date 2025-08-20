@@ -157,9 +157,15 @@ This project is licensed under the MIT License.
 3. Make your changes
 4. Submit a pull request
 
-## � Demo
+## Screenshot
+<img width="1798" height="1152" alt="image" src="https://github.com/user-attachments/assets/dfb84b00-2578-41b0-a669-87e2ed0f2d18" />
+<img width="1798" height="1152" alt="image" src="https://github.com/user-attachments/assets/3b6aa9af-2464-421d-bf62-b2152baf4bd8" />
+<img width="1798" height="1152" alt="image" src="https://github.com/user-attachments/assets/001f8a22-a20b-4c24-8738-57888b4d0d2e" />
+<img width="1798" height="1152" alt="image" src="https://github.com/user-attachments/assets/ef6b92ec-ff45-46a6-8d39-aac8b0e0aab4" />
+<img width="1798" height="1152" alt="image" src="https://github.com/user-attachments/assets/415c16ef-59a5-4ea1-96c2-25f3d884517e" />
+<img width="1798" height="1152" alt="image" src="https://github.com/user-attachments/assets/3e0e6335-7c81-4f31-8766-829798bd3db2" />
+<img width="1798" height="1152" alt="image" src="https://github.com/user-attachments/assets/74d4003e-14fd-463d-b08b-1c3e1b69c290" />
 
-<img width="1829" height="1156" alt="CTI Platform Demo" src="https://github.com/user-attachments/assets/7e5edcc9-c9a1-48ea-bb3f-fb54f867867a" />
 
 ## �📞 Support
 
